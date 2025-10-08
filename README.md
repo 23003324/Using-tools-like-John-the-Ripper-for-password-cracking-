@@ -56,6 +56,7 @@ john --show myhashes.txt
 ## OUTPUT:
 Cracked Passwords from Hash File
 <img width="1920" height="937" alt="create document" src="https://github.com/user-attachments/assets/166d8be1-f41d-473d-956b-e93a536f0132" />
+<img width="1920" height="937" alt="mousepad" src="https://github.com/user-attachments/assets/771f2d07-0cb4-4a7e-b222-3247aa8294d5" />
 
 <img width="1920" height="937" alt="create password" src="https://github.com/user-attachments/assets/041d27de-6975-48a1-baa5-fcaa7ad9d287" />
 <img width="1920" height="937" alt="create archieve" src="https://github.com/user-attachments/assets/1001782d-de6e-410e-b990-ec3adaaa2413" />
